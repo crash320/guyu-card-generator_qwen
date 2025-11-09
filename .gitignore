@@ -1,0 +1,11 @@
+extracted_texts/*
+test*
+*pyc
+tmp*
+__pycache__/
+debug*
+大模型增强的文本转换器设计.md
+工程实践指南.md
+古汉语数据处理脚本设计.md
+文本到JSON转换器设计.md
+Python批量脚本设计.md
